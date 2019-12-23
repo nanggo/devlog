@@ -38,7 +38,8 @@ export const ThemeSwitch = () => {
   useEffect(() => {
     const checked = Dom.hasClassOfBody(THEME.DARK)
 
-    handleChange(checked)
+    // @TODO: if want to change default theme light, true -> checked
+    handleChange(true)
   }, [])
 
   return (
