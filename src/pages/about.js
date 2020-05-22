@@ -8,7 +8,7 @@ export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
 
   const resume = resumes
-    .filter(({ node }) => node.frontmatter.lang === Lang.KOREAN)
+    .filter(({ node }) => node.frontmatter.lang === Lang.ENGLISH)
     .map(({ node }) => node)[0]
 
   return (
