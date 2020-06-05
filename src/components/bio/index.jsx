@@ -46,7 +46,7 @@ export const Bio = () => (
                     </a>
                   )}
                   {social.linkedin && (
-                    <a href={`https://www.linkedin.com/in/${social.linkedin}/`}>
+                    <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
                       LinkedIn
                     </a>
                   )}

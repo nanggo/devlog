@@ -8,6 +8,7 @@
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
   "dependencies": {
+    "@react-pdf/renderer": "^1.6.9",
     "gatsby": "^2.2.8",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-feed": "^2.1.0",
@@ -57,6 +58,7 @@
     "eslint-plugin-react": "^7.11.1",
     "fs-extra": "^7.0.1",
     "gatsby-post-gen": "^1.0.0",
+    "gh-pages": "^3.0.0",
     "gray-matter": "^4.0.2",
     "inquirer": "^6.2.2",
     "lighthousebot": "git+https://github.com/GoogleChromeLabs/lighthousebot.git",
@@ -82,6 +84,7 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://35bb83eee73a46de7a2941e111fa75c7dfd8cb9b@github.com/nanggo/nanggo.github.io.git",
     "lh": "lighthousebot",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }

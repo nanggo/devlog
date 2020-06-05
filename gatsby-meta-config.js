@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about ...`,
   author: `NANGGO`,
   introduction: `👻 Web developer interested in DDD, MSA, TDD`,
-  siteUrl: `https://nanggo.netlify.com`, // Your blog site url
+  siteUrl: `https://nanggo.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `nanggo`, // Your GitHub account
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'nanggo/devlog', // Your repository for archive comment
+    utterances: 'nanggo/nanggo.github.io', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
