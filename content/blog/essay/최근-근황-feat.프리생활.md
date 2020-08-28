@@ -2,7 +2,6 @@
 title: 최근 근황 feat.프리생활
 date: 2020-08-10 23:08:02
 category: essay
-thumbnail: ''
 draft: false
 ---
 ### 프리 생활
