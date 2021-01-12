@@ -63,7 +63,11 @@ export const ThemeSwitch = () => {
   }
 
   useEffect(() => {
-    const checked = Storage.getTheme(Dom.hasClassOfBody(THEME.LIGHT))
+    const cachedTheme = Storage.getTheme()
+    if (cachedTheme === undefined) {
+      Dom.addClassToBody(THEME.DARK)
+    }
+    const checked = Storage.getTheme(Dom.hasClassOfBody(THEME.DARK))
 
     handleChange(checked)
   }, [])
