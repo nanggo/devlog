@@ -29,11 +29,7 @@ export function setData(val) {
 }
 
 export function getTheme(defaultValue) {
-  const result = getValueFromLocalStorage(`${LOCAL_STORAGE_KEY}/theme`)
-  if (result === undefined) {
-    return defaultValue
-  }
-  return result
+  return getValueFromLocalStorage(`${LOCAL_STORAGE_KEY}/theme`) || defaultValue
 }
 
 export function setTheme(val) {
