@@ -63,7 +63,7 @@ export const ThemeSwitch = () => {
   }
 
   useEffect(() => {
-    const checked = Storage.getTheme(true)
+    const checked = Storage.getTheme(true) // theme dark : true
 
     handleChange(checked)
   }, [])
