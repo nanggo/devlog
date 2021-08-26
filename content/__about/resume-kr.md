@@ -6,6 +6,6 @@ lang: 'ko'
 
 # 유지성
 
-<div align="center">
+<div >
 KEEP GOING
 </div>
