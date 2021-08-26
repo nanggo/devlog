@@ -13,6 +13,12 @@ module.exports = {
     instagram: ``,
   },
   icon: `content/assets/favicon.png`, // Add your favicon
+  // thumbnail: ``,
+  resume: {
+    title: 'About NANGGO',
+    description: 'docs: Update RESUME.md for introducing myself',
+    // thumbnail: '',
+  },
   keywords: [
     `blog`,
     `javascript`,
