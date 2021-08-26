@@ -1,18 +1,29 @@
 module.exports = {
   title: `NANGGO's DEVLOG`,
-  description: `Blog posted about ...`,
+  description: `Blog posted about frontend development and normal life.`,
   author: `NANGGO`,
   introduction: `👻 Web developer interested in DDD, MSA, TDD`,
-  siteUrl: `https://nanggo.dev`, // Your blog site url
+  siteUrl: `https://blog.nanggo.net`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `nanggo`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: `nanggos`, // Your Facebook account
     linkedin: `jisung-yoo-3a32b923`, // Your LinkedIn account
+    instagram: ``,
   },
   icon: `content/assets/favicon.png`, // Add your favicon
-  keywords: [`blog`],
+  keywords: [
+    `blog`,
+    `javascript`,
+    `typescript`,
+    `web`,
+    `react`,
+    `vue`,
+    `frontend`,
+    `development`,
+    `life`,
+  ],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'nanggo/devlog', // Your repository for archive comment
