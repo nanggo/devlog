@@ -17,7 +17,7 @@ module.exports = {
   resume: {
     title: 'About NANGGO',
     description: 'docs: Update RESUME.md for introducing myself',
-    // thumbnail: '',
+    thumbnail: '',
   },
   keywords: [
     `blog`,
@@ -28,7 +28,7 @@ module.exports = {
     `vue`,
     `frontend`,
     `development`,
-    `life`,
+    `daily life`,
   ],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
