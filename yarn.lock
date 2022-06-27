@@ -2998,11 +2998,12 @@ __metadata:
   linkType: hard
 
 "@types/vfile-message@npm:*":
-  version: 2.0.0
-  resolution: "@types/vfile-message@npm:2.0.0"
+  version: 1.0.1
+  resolution: "@types/vfile-message@npm:1.0.1"
   dependencies:
-    vfile-message: "*"
-  checksum: 3c019a88d6ae8bb77316345d50497fecbb4f020057afb1c330ccb936a48f1bc412e5a09e1accb1537d22e7776b88e25679c477088048d575f477cbe3777eb605
+    "@types/node": "*"
+    "@types/unist": "*"
+  checksum: 254b8399645dcdd9e246002b2ba99526aa40b1ba941ad18085f21d8531c3e2ed04346e864c79c0c17a67dfe96ad2258e9e3a8c441783783e49c32dc8cfb0484b
   languageName: node
   linkType: hard
 
@@ -21523,16 +21524,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vfile-message@npm:*, vfile-message@npm:^3.0.0":
-  version: 3.1.2
-  resolution: "vfile-message@npm:3.1.2"
-  dependencies:
-    "@types/unist": ^2.0.0
-    unist-util-stringify-position: ^3.0.0
-  checksum: 96fbd9e9b5e0babb5ee61e3a716dc7a6a8c28f2c8c711837d95c88b782161b31549ad16059a78990d7b836d0f4d3b4d8c9ffde44370d48d9cac991fc1e3e17c5
-  languageName: node
-  linkType: hard
-
 "vfile-message@npm:^1.0.0":
   version: 1.1.1
   resolution: "vfile-message@npm:1.1.1"
@@ -21549,6 +21540,16 @@ __metadata:
     "@types/unist": ^2.0.0
     unist-util-stringify-position: ^2.0.0
   checksum: 1bade499790f46ca5aba04bdce07a1e37c2636a8872e05cf32c26becc912826710b7eb063d30c5754fdfaeedc8a7658e78df10b3bc535c844890ec8a184f5643
+  languageName: node
+  linkType: hard
+
+"vfile-message@npm:^3.0.0":
+  version: 3.1.2
+  resolution: "vfile-message@npm:3.1.2"
+  dependencies:
+    "@types/unist": ^2.0.0
+    unist-util-stringify-position: ^3.0.0
+  checksum: 96fbd9e9b5e0babb5ee61e3a716dc7a6a8c28f2c8c711837d95c88b782161b31549ad16059a78990d7b836d0f4d3b4d8c9ffde44370d48d9cac991fc1e3e17c5
   languageName: node
   linkType: hard
 
