@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 14
-      - run: yarn install && yarn global add @lhci/cli@0.8.x
+          node-version: 16
+      - run: yarn install && yarn dlx @lhci/cli@0.8.x
       - run: yarn run build
       - run: lhci autorun
