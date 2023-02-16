@@ -10,4 +10,4 @@ jobs:
           node-version: 14
       - run: yarn install
       - run: yarn run build
-      - run: yarn dlx @lhci/cli@0.8.x lhci autorun
+      - run: yarn dlx @lhci/cli@0.8.x autorun
