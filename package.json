@@ -66,6 +66,7 @@
     "gray-matter": "^4.0.2",
     "inquirer": "^6.2.2",
     "prettier": "^1.14.2",
+    "prop-types": "^15.8.1",
     "recursive-readdir": "^2.2.2",
     "signale": "^1.3.0"
   },
@@ -89,5 +90,8 @@
     "build": "gatsby build",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   },
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.4.1",
+  "resolutions": {
+    "sharp": "^0.29.0"
+  }
 }
