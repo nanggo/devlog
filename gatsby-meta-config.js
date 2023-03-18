@@ -9,8 +9,8 @@ module.exports = {
     github: `nanggo`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: `nanggos`, // Your Facebook account
-    linkedin: `jisung-yoo-3a32b923`, // Your LinkedIn account
-    instagram: ``,
+    linkedin: `jisung-yoo`, // Your LinkedIn account
+    instagram: `nanggos`,
   },
   icon: `content/assets/favicon.png`, // Add your favicon
   // thumbnail: ``,
@@ -45,5 +45,4 @@ module.exports = {
   },
   ga: 'UA-154935742-1', // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
-
 }
