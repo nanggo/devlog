@@ -1,8 +1,8 @@
 module.exports = {
   title: `NANGGO's DEVLOG`,
-  description: `Blog posted about frontend development and normal life.`,
+  description: `less is more.`,
   author: `NANGGO`,
-  introduction: `👻 Web developer interested in DDD, MSA, TDD`,
+  introduction: `👻 미니멀리즘과 프론트엔드를 좋아하는 개발자입니다.`,
   siteUrl: `https://blog.nanggo.net`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
