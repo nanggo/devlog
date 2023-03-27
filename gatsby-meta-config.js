@@ -25,8 +25,9 @@ module.exports = {
     `typescript`,
     `web`,
     `react`,
-    `vue`,
     `frontend`,
+    `dev`,
+    `developer`,
     `development`,
     `daily life`,
   ],
@@ -43,6 +44,6 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'UA-154935742-1', // Add your google analytics tranking ID
+  ga: 'UA-154935742-1', // Add your google analytics tracking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
 }
