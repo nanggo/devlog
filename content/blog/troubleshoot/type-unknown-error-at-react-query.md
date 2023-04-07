@@ -2,7 +2,6 @@
 title: react-query에서 Type "unknown" is not assignable to type 에러
 date: 2023-03-25 14:03:40
 category: troubleshoot
-thumbnail: { thumbnailSrc }
 draft: false
 ---
 

@@ -2,7 +2,6 @@
 title: react mui에서 validateDOMNesting 에러
 date: 2023-03-25 14:03:27
 category: troubleshoot
-thumbnail: { thumbnailSrc }
 draft: false
 ---
 

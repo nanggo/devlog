@@ -2,7 +2,6 @@
 title: AWS ECR CannotPullContainerError 해결
 date: 2023-03-16 16:03:34
 category: troubleshoot
-thumbnail: { './images/AWS_ECR_CannotPullContainerError_해결.png' }
 draft: false
 ---
 
