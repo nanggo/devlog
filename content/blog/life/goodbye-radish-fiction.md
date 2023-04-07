@@ -2,7 +2,7 @@
 title: 안녕 레디쉬
 date: 2023-04-01 15:03:71
 category: life
-thumbnail: './images/radish.png'
+thumbnail: { './images/radish.png' }
 draft: false
 ---
 
