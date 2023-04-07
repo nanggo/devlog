@@ -28,9 +28,6 @@ module.exports = {
     `react`,
     `frontend`,
     `dev`,
-    `developer`,
-    `development`,
-    `daily life`,
     'life',
   ],
   comment: {
