@@ -1,6 +1,21 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+    type MarkdownRemarkFrontmatter {
+      title: String!
+      thumbnail: File @fileByRelativePath
+    }
+
+    type MarkdownRemark implements Node {
+      frontmatter: MarkdownRemarkFrontmatter
+    }
+  `
+  createTypes(typeDefs)
+}
+
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
