@@ -8,6 +8,10 @@ import { rhythm } from '../utils/typography'
 
 import './index.scss'
 
+import { inject } from '@vercel/analytics'
+
+inject()
+
 export const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
 
