@@ -1,6 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import { inject } from '@vercel/analytics'
+
+inject()
+
 export default class HTML extends React.Component {
   render() {
     return (
