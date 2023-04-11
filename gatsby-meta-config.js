@@ -1,5 +1,5 @@
 module.exports = {
-  title: `낭고's LIFELOG`,
+  title: `NANGGO's LIFELOG`,
   description: `less is more.`,
   author: `nanggo`,
   introduction: `🌴 미니멀리즘을 추구하며 프론트엔드에 열정을 가진 개발자입니다.`,
