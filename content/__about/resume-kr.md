@@ -79,12 +79,12 @@ lang: 'ko'
 
 ## 아모레퍼시픽
 
-|              |                                             |
-| -----------: | ------------------------------------------- |
-|   **period** | 2021.02 ~ 2021.08                           |
-| **position** | Frontend Developer(Freelancer)              |
-| **projects** | [amoremall](https://www.amoremall.com) 개편 |
-|       _tech_ | Next.js, TypeScript                         |
+|              |                                            |
+| -----------: | ------------------------------------------ |
+|   **period** | 2021.02 ~ 2021.08                          |
+| **position** | Frontend Developer(Freelancer)             |
+| **projects** | [아모레몰](https://www.amoremall.com) 개편 |
+|       _tech_ | Next.js, TypeScript                        |
 
 #### [아모레몰](https://www.amoremall.com) Frontend 개발
 
