@@ -2,7 +2,7 @@
 title: docker-compose 별칭 설정하기
 date: 2023-05-21 19:05:50
 category: tip
-thumbnail: { thumbnailSrc }
+thumbnail: ''
 draft: false
 ---
 
