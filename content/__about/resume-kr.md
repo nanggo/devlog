@@ -25,12 +25,12 @@ lang: 'ko'
 
 <br/>
 
-|              |                                          |
-| :----------: | ---------------------------------------- |
-|  **GitHub**  | <https://github.com/nanggo>              |
-|   **Blog**   | <https://blog.nanggo.net>                |
-| **LinkedIn** | <https://www.linkedin.com/in/jisung-yoo> |
-| **Contact**  | <yamsiri@gmail.com>                      |
+|              |                                      |
+| :----------: | ------------------------------------ |
+|  **GitHub**  | <https://github.com/nanggo>          |
+|   **Blog**   | <https://blog.nanggo.net>            |
+| **LinkedIn** | <https://linkedin.com/in/jisung-yoo> |
+| **Contact**  | <yamsiri@gmail.com>                  |
 
 # Experiences
 
