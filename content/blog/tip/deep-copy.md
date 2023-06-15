@@ -2,7 +2,7 @@
 title: 깊은 복사
 date: 2023-06-15 10:06:64
 category: tip
-thumbnail: { thumbnailSrc }
+thumbnail: ''
 draft: false
 ---
 
