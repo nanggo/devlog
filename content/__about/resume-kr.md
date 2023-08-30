@@ -6,7 +6,7 @@ lang: 'ko'
 
 # 유지성 (NANGGO)
 
-<div align="right"><sub><i>Last updated: 2023.04.04</i></sub></div>
+<div align="right"><sub><i>Last updated: 2023.08.30</i></sub></div>
 
 **저는 `______` 엔지니어입니다.**
 
@@ -59,6 +59,12 @@ lang: 'ko'
 #### Series Linking(2022.12)
 
 - 작품의 시리즈물을 연결하여 유저에게 노출할 수 있도록 관리할 수 있는 기능 개발
+
+#### Minimum Guarantee(2022.08 ~ 2022.10)
+
+- Minimum Guarantee 정산을 위한 로직 추가
+- 정산 결과 추가
+- PDF 다운로드 기능 추가
 
 #### Audio Book(2022.02 ~ 2022.06)
 
