@@ -83,12 +83,12 @@ lang: 'ko'
 
 ## 아모레퍼시픽
 
-|              |                                            |
-| -----------: | ------------------------------------------ |
-|   **period** | 2021.02 ~ 2021.08                          |
-| **position** | Frontend Developer(Freelancer)             |
-| **projects** | [아모레몰](https://www.amoremall.com) 개편 |
-|       _tech_ | Next.js, TypeScript                        |
+|              |                                               |
+| -----------: | --------------------------------------------- |
+|   **period** | 2021.02 ~ 2021.08                             |
+| **position** | Frontend Developer(Freelancer)                |
+| **projects** | [아모레몰](https://www.amoremall.com) 개편    |
+|       _tech_ | Next.js, React, TypeScript, Redux, Redux-saga |
 
 #### [아모레몰](https://www.amoremall.com) Frontend 개발
 
@@ -101,7 +101,7 @@ lang: 'ko'
 |   **period** | 2020.05 ~ 2021.01                                    |
 | **position** | Frontend Developer(Freelancer)                       |
 | **projects** | Stove TV, [인디게임 상점](https://indie.onstove.com) |
-|       _tech_ | Nuxt.js, TypeScript, Rxjs                            |
+|       _tech_ | Nuxt.js, Vue, TypeScript, Rxjs                       |
 
 #### [인디게임 상점](https://indie.onstove.com) Frontend 개발(2020.08 ~ 2021.01)
 
