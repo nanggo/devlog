@@ -2,7 +2,7 @@ module.exports = {
   title: `NANGGO's LIFELOG`,
   description: `less is more.`,
   author: `nanggo`,
-  introduction: `🌴 미니멀리즘을 추구하며 프론트엔드에 열정을 가진 개발자입니다.`,
+  introduction: `Problem solver: Tackling real-world problems`,
   siteUrl: `https://blog.nanggo.net`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
