@@ -10,16 +10,15 @@ lang: 'ko'
 
 **저는 `______` 엔지니어입니다.**
 
-1. 변화를 두려워 하지 않는
-2. 배움을 갈망하는
+1. 문제 해결을 위해 고민하는
+2. 효율적으로 일하기 위해 노력하는
 3. 커뮤니케이션을 좋아하는
 
 **저는 `______` 조직을 선호합니다.**
 
 1. 자유로운
-2. 도전을 두려워 않는
-3. 수평적인
-4. 정보를 투명하게 공유하는
+2. 수평적인
+3. 정보를 투명하게 공유하는
 
 <br/>
 
@@ -34,18 +33,17 @@ lang: 'ko'
 
 ## [SK C&C](https://www.skcc.co.kr)
 
-|              |                                                                                                      |
-| -----------: | ---------------------------------------------------------------------------------------------------- |
-|   **period** | 2023.10 ~ |
-| **position** | Frontend Developer                                                                                    |
-| **projects** | Generative AI TF                                                     |
-|       _tech_ | Next.js, React.js,  |
-
+|              |                    |
+| -----------: | ------------------ |
+|   **period** | 2023.10 ~          |
+| **position** | Frontend Developer |
+| **projects** | Generative AI TF   |
+|       _tech_ | Next.js, React.js, |
 
 #### Generative AI TF(2023.10 ~ )
 
 - ing~
-  
+
 ## [RadishFiction](https://radishfiction.com)
 
 |              |                                                                                                      |
