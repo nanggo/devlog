@@ -6,7 +6,7 @@ lang: 'ko'
 
 # 유지성 (NANGGO)
 
-<div align="right"><sub><i>Last updated: 2023.10.25</i></sub></div>
+<div align="right"><sub><i>Last updated: 2023.11.05</i></sub></div>
 
 **저는 `______` 엔지니어입니다.**
 
@@ -33,16 +33,18 @@ lang: 'ko'
 
 ## [SK C&C](https://www.skcc.co.kr)
 
-|              |                    |
-| -----------: | ------------------ |
-|   **period** | 2023.10 ~          |
-| **position** | Frontend Developer |
-| **projects** | Generative AI TF   |
-|       _tech_ | Next.js, React.js, |
+|              |                                                              |
+| -----------: | ------------------------------------------------------------ |
+|   **period** | 2023.10 ~                                                    |
+| **position** | Frontend Developer                                           |
+| **projects** | tok.AI - Generative AI based app platform - Report Generator |
+|       _tech_ | Next.js, React.js, Redux                                     |
 
-#### Generative AI TF(2023.10 ~ )
+#### tok.AI - Report Generator(2023.10 ~ )
 
-- ing~
+- 공통 컴포넌트 개발
+- 마크다운 뷰어 개발
+- 마크다운 에디터 개발
 
 ## [RadishFiction](https://radishfiction.com)
 
