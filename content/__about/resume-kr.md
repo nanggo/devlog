@@ -42,9 +42,10 @@ lang: 'ko'
 
 #### tok.AI - Report Generator(2023.10 ~ )
 
+- 프로젝트 구조 설계 및 환경 설정
 - 공통 컴포넌트 개발
 - 마크다운 뷰어 개발
-- 마크다운 에디터 개발
+- 텍스트 에디터 개발
 
 ## [RadishFiction](https://radishfiction.com)
 
