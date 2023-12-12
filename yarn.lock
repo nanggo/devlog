@@ -3255,10 +3255,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/speed-insights@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@vercel/speed-insights@npm:1.0.1"
-  checksum: 5cca9343ed253a19c359f45393c3a16865f56b9af68d15cd453c0cdfc2a4c048098834976b7067e851e30591e7e0b62adcc042a0a9d44ef28841fb46d9d46b19
+"@vercel/analytics@npm:^0.1.11":
+  version: 0.1.11
+  resolution: "@vercel/analytics@npm:0.1.11"
+  peerDependencies:
+    react: ^16.8||^17||^18
+  checksum: 05b8180ac6e23ebe7c09d74c43f8ee78c408cd0b6546e676389cbf4fba44dfeeae3648c9b52e2421be64fe3aeee8b026e6ea4bdfc0589fb5780670f2b090a167
   languageName: node
   linkType: hard
 
@@ -9676,7 +9678,7 @@ __metadata:
   resolution: "gatsby-starter-bee@workspace:."
   dependencies:
     "@react-pdf/renderer": ^1.6.9
-    "@vercel/speed-insights": ^1.0.1
+    "@vercel/analytics": ^0.1.11
     date-fns: ^1.30.1
     eslint: ^5.14.1
     eslint-plugin-react: ^7.11.1

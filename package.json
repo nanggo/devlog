@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^1.6.9",
-    "@vercel/speed-insights": "^1.0.1",
+    "@vercel/analytics": "^0.1.11",
     "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-feed": "^2.1.0",

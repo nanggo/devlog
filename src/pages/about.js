@@ -7,8 +7,6 @@ import * as Lang from '../constants'
 
 import '../styles/resume.scss'
 
-import { SpeedInsights } from '@vercel/speed-insights/react'
-
 export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
   const resumeData = data.site.siteMetadata.resume
@@ -40,7 +38,6 @@ export default ({ data }) => {
         }}
       >
         <div dangerouslySetInnerHTML={{ __html: resume.html }} />
-        <SpeedInsights />
       </div>
     </>
   )

@@ -5,6 +5,12 @@ require('typeface-catamaran')
 // polyfill
 require('intersection-observer')
 
+const { initializeVercelAnalytics } = require('./src/vercel-analytics')
+
+exports.onClientEntry = () => {
+  initializeVercelAnalytics()
+}
+
 const metaConfig = require('./gatsby-meta-config')
 
 exports.onInitialClientRender = () => {
