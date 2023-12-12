@@ -8,6 +8,8 @@ import { rhythm } from '../utils/typography'
 
 import './index.scss'
 
+import { SpeedInsights } from '@vercel/speed-insights/react'
+
 export const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
 
@@ -25,6 +27,7 @@ export const Layout = ({ location, title, children }) => {
         <ThemeSwitch />
         <Header title={title} location={location} rootPath={rootPath} />
         {children}
+        <SpeedInsights />
         <Footer />
       </div>
     </React.Fragment>
