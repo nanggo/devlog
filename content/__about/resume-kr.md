@@ -31,11 +31,24 @@ lang: 'ko'
 
 # Experiences
 
+## [Bithumb](https://www.bithumb.com)
+
+|              |                               |
+| -----------: | ----------------------------- |
+|   **period** | 2024.01 ~                     |
+| **position** | Frontend Developer            |
+| **projects** | BOS(Bithumb Operating System) |
+|       _tech_ | React.js, TypeScript, Mobx    |
+
+#### Bithumb Operating System 개발(2024.01 ~ )
+
+- Event 관리 설계 및 개발
+
 ## [SK C&C](https://www.skcc.co.kr)
 
 |              |                                                              |
 | -----------: | ------------------------------------------------------------ |
-|   **period** | 2023.10 ~                                                    |
+|   **period** | 2023.10 ~ 2023.12                                            |
 | **position** | Frontend Developer                                           |
 | **projects** | tok.AI - Generative AI based app platform - Report Generator |
 |       _tech_ | Next.js, React.js, Redux                                     |
