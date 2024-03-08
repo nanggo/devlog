@@ -35,12 +35,12 @@ lang: 'ko'
 
 |              |                                   |
 | -----------: | --------------------------------- |
-|   **period** | 2024.01 ~                         |
+|   **period** | 2024.01 ~ 2024.02                 |
 | **position** | Frontend Developer                |
 | **projects** | BOS 2.0(Bithumb Operating System) |
 |       _tech_ | React.js, TypeScript, Mobx        |
 
-#### BOS 2.0 (Bithumb Operating System) 개발(2024.01 ~ )
+#### BOS 2.0 (Bithumb Operating System) 개발(2024.01 ~ 2024.02)
 
 - Event 관리 설계 및 개발
   - Event 목록 검색, 조회
