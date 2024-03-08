@@ -6,7 +6,7 @@ lang: 'ko'
 
 # 유지성 (NANGGO)
 
-<div align="right"><sub><i>Last updated: 2023.11.05</i></sub></div>
+<div align="right"><sub><i>Last updated: 2024.03.01</i></sub></div>
 
 **저는 `______` 엔지니어입니다.**
 
@@ -33,16 +33,19 @@ lang: 'ko'
 
 ## [Bithumb](https://www.bithumb.com)
 
-|              |                               |
-| -----------: | ----------------------------- |
-|   **period** | 2024.01 ~                     |
-| **position** | Frontend Developer            |
-| **projects** | BOS(Bithumb Operating System) |
-|       _tech_ | React.js, TypeScript, Mobx    |
+|              |                                   |
+| -----------: | --------------------------------- |
+|   **period** | 2024.01 ~                         |
+| **position** | Frontend Developer                |
+| **projects** | BOS 2.0(Bithumb Operating System) |
+|       _tech_ | React.js, TypeScript, Mobx        |
 
-#### Bithumb Operating System 개발(2024.01 ~ )
+#### BOS 2.0 (Bithumb Operating System) 개발(2024.01 ~ )
 
 - Event 관리 설계 및 개발
+  - Event 목록 검색, 조회
+  - Event 상세 조회
+  - Event 등록, 수정, 삭제
 
 ## [SK C&C](https://www.skcc.co.kr)
 
@@ -53,7 +56,7 @@ lang: 'ko'
 | **projects** | tok.AI - Generative AI based app platform - Report Generator |
 |       _tech_ | Next.js, React.js, Redux                                     |
 
-#### tok.AI - Report Generator(2023.10 ~ )
+#### tok.AI - Report Generator(2023.10 ~ 2023.12)
 
 - 프로젝트 구조 설계 및 환경 설정
 - 공통 컴포넌트 개발
