@@ -104,7 +104,7 @@ lang: 'ko'
 |              |                                              |
 | -----------: | -------------------------------------------- |
 |   **period** | 2021.09 ~ 2021.11                            |
-| **position** | Frontend Developer(freelance)                |
+| **position** | Frontend Developer (freelance)               |
 | **projects** | Doosan CONNECT                               |
 |       _tech_ | Vue.js, TypeScript, Google Map API, chart.js |
 
@@ -117,7 +117,7 @@ lang: 'ko'
 |              |                                                  |
 | -----------: | ------------------------------------------------ |
 |   **period** | 2021.02 ~ 2021.08                                |
-| **position** | Frontend Developer(freelance)                    |
+| **position** | Frontend Developer (freelance)                   |
 | **projects** | [아모레몰](https://www.amoremall.com) 개편       |
 |       _tech_ | Next.js, React.js, TypeScript, Redux, Redux-saga |
 
@@ -130,7 +130,7 @@ lang: 'ko'
 |              |                                                      |
 | -----------: | ---------------------------------------------------- |
 |   **period** | 2020.05 ~ 2021.01                                    |
-| **position** | Frontend Developer(freelance)                        |
+| **position** | Frontend Developer (freelance)                       |
 | **projects** | Stove TV, [인디게임 상점](https://indie.onstove.com) |
 |       _tech_ | Nuxt.js, Vue.js, TypeScript, Rxjs                    |
 
