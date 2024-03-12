@@ -36,7 +36,7 @@ lang: 'ko'
 |              |                                   |
 | -----------: | --------------------------------- |
 |   **period** | 2024.01 ~ 2024.02                 |
-| **position** | Frontend Developer                |
+| **position** | Frontend Developer (freelance)    |
 | **projects** | BOS 2.0(Bithumb Operating System) |
 |       _tech_ | React.js, TypeScript, Mobx        |
 
@@ -52,7 +52,7 @@ lang: 'ko'
 |              |                                                              |
 | -----------: | ------------------------------------------------------------ |
 |   **period** | 2023.10 ~ 2023.12                                            |
-| **position** | Frontend Developer                                           |
+| **position** | Frontend Developer (freelance)                               |
 | **projects** | tok.AI - Generative AI based app platform - Report Generator |
 |       _tech_ | Next.js, React.js, Redux                                     |
 
@@ -68,7 +68,7 @@ lang: 'ko'
 |              |                                                                                                      |
 | -----------: | ---------------------------------------------------------------------------------------------------- |
 |   **period** | 2022.01 ~ 2023.03                                                                                    |
-| **position** | Frontend Engineer                                                                                    |
+| **position** | Frontend Engineer (full-time)                                                                        |
 | **projects** | Audio Book, Geo Block, Series Linking, Share Web                                                     |
 |       _tech_ | Next.js, React.js, TypeScript, React-Query, Tailwind, Material UI, AWS(EKS, ECR, CloudFront), Docker |
 
@@ -104,7 +104,7 @@ lang: 'ko'
 |              |                                              |
 | -----------: | -------------------------------------------- |
 |   **period** | 2021.09 ~ 2021.11                            |
-| **position** | Frontend Developer(Freelancer)               |
+| **position** | Frontend Developer(freelance)                |
 | **projects** | Doosan CONNECT                               |
 |       _tech_ | Vue.js, TypeScript, Google Map API, chart.js |
 
@@ -117,7 +117,7 @@ lang: 'ko'
 |              |                                                  |
 | -----------: | ------------------------------------------------ |
 |   **period** | 2021.02 ~ 2021.08                                |
-| **position** | Frontend Developer(Freelancer)                   |
+| **position** | Frontend Developer(freelance)                    |
 | **projects** | [아모레몰](https://www.amoremall.com) 개편       |
 |       _tech_ | Next.js, React.js, TypeScript, Redux, Redux-saga |
 
@@ -130,7 +130,7 @@ lang: 'ko'
 |              |                                                      |
 | -----------: | ---------------------------------------------------- |
 |   **period** | 2020.05 ~ 2021.01                                    |
-| **position** | Frontend Developer(Freelancer)                       |
+| **position** | Frontend Developer(freelance)                        |
 | **projects** | Stove TV, [인디게임 상점](https://indie.onstove.com) |
 |       _tech_ | Nuxt.js, Vue.js, TypeScript, Rxjs                    |
 
@@ -147,7 +147,7 @@ lang: 'ko'
 |              |                                                                        |
 | -----------: | ---------------------------------------------------------------------- |
 |   **period** | 2016.12 ~ 2020.05                                                      |
-| **position** | Fullstack Developer                                                    |
+| **position** | Fullstack Developer (full-time)                                        |
 | **projects** | [EDGE & NEXT](https://edgennext.com/) - 클라우드 기반 병원 정보 시스템 |
 |       _tech_ | .NETFramework, EntityFramework, MongoDB, MySQL, Ember.js, JavaScript   |
 
