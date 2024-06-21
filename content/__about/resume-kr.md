@@ -31,6 +31,23 @@ lang: 'ko'
 
 # Experiences
 
+## [AhnLab](https://www.ahnlab.com)
+
+|              |                                                                |
+| -----------: | -------------------------------------------------------------- |
+|   **period** | 2024.05 ~                                                      |
+| **position** | Lead Frontend Developer (freelance)                            |
+| **projects** | SOC(Security Operation Center) Web Console Renewal             |
+|       _tech_ | Next.js, TypeScript, Zustand, React-Query, Tailwind, Mono Repo |
+
+#### SOC(Security Operation Center) Web Console 리뉴얼 (2024.05 ~ )
+
+- Mono Repo 변환
+- Next.js 14 적용
+- 구조 생성
+- 프로젝트 설정
+- 페이지 개발
+
 ## [Bithumb](https://www.bithumb.com)
 
 |              |                                   |
