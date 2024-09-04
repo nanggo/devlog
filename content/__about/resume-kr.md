@@ -6,7 +6,7 @@ lang: 'ko'
 
 # 유지성 (NANGGO)
 
-<div align="right"><sub><i>Last updated: 2024.03.01</i></sub></div>
+<div align="right"><sub><i>Last updated: 2024.05.10</i></sub></div>
 
 **저는 `______` 엔지니어입니다.**
 
